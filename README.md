@@ -17,11 +17,10 @@
 :pushpin: 저녁 메뉴 취향 존중!!  
 
 ## 오늘의 순서
-$\color{#5ad7b7}민우$ >
-$\color{#00BFFF}예진$ >
-$\color{#A74AC7}성진$ >
-$\color{#FFA500}도형$
-[색깔맘에안듦?](https://www.computerhope.com/htmcolor.htm)
+민우
+예진
+성진
+도형
 ## 오늘의 문제
 민우
 
