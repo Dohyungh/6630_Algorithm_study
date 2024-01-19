@@ -19,11 +19,11 @@
 :pushpin: 인당 2문제  
 :pushpin: 10시 땡하면 무조건 짐싸기  
 :pushpin: 저녁 메뉴 취향 존중  
-:pushpin: :rage: 벌금 :rage:
-일정 변동시 1주일 전까지 공지!!  
-그 이후 결석 통보: 벌금 :money_with_wings:만원,   
-자료 안 올림(스터디 시작전까지): 벌금 :money_with_wings:만원,  
-둘 다 안함: 벌금 :money_with_wings::money_with_wings::money_with_wings:만원  
+:pushpin: :rage: *벌금* :rage:  
+** 일정 변동시 1주일 전까지 공지!!  
+** 그 이후 결석 통보: :money_with_wings:  
+** 자료 안 올림(스터디 시작전까지): :money_with_wings:    
+** 둘 다 안함: :money_with_wings::money_with_wings::money_with_wings:    
 
 ## 오늘의 순서
 민우
