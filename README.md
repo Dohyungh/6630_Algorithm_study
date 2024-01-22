@@ -26,8 +26,8 @@
 ** 둘 다 안함: :money_with_wings::money_with_wings::money_with_wings:    
 
 ## 오늘의 순서
-민우
 예진
+민우
 성진
 도형
 ## 오늘의 문제
