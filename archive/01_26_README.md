@@ -42,12 +42,12 @@ ___
 ___
 성진  
 [IM] [4047.영준이의 카드 카운팅](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIsY84KEPMDFAWN)  
-[IM] [4789.성공적인 공연기획](https://www.google.com/url?q=https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId%3DAWS2dSgKA8MDFAVT&sa=D&source=editors&ust=1676883876182957&usg=AOvVaw2xmRlRaBwVaHVe4cBqCCL3)
+[IM] [4789.성공적인 공연기획](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)
 
 ___
 도형  
-[IM] [4698.테네스의 특별한 소수](https://www.google.com/url?q=https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId%3DAWS2dSgKA8MDFAVT&sa=D&source=editors&ust=1676883876182957&usg=AOvVaw2xmRlRaBwVaHVe4cBqCCL3)  
-[IM] [5356.의석이세로로말해요](https://www.google.com/url?q=https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId%3DAWRuoqCKkE0DFAXt%26categoryId%3DAWRuoqCKkE0DFAXt%26categoryType%3DCODE%26problemTitle%3D%25ED%2585%258C%25EB%2584%25A4%25EC%258A%25A4%26orderBy%3DFIRST_REG_DATETIME%26selectCodeLang%3DALL%26select-1%3D%26pageSize%3D10%26pageIndex%3D1&sa=D&source=editors&ust=1676883876183111&usg=AOvVaw0oZhQu3iCUsCrOTpQSyPs-)
+[IM] [4698.테네스의 특별한 소수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)  
+[IM] [5356.의석이세로로말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)
 ___
 
 ## 먹고 싶은 저녁 메뉴
