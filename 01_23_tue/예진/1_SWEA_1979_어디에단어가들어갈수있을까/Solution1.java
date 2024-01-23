@@ -64,6 +64,6 @@ public class Solution1 {
 		}
 		System.out.printf("#%d %d\n", 1, cnt);
 	
-		sc.close();
+		sc.close();  
 	}
 }
