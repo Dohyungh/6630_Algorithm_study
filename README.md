@@ -27,28 +27,29 @@
 
 ## 오늘의 순서
 예진
+도형
 민우
 성진
-도형
 ## 오늘의 문제
 민우  
-[IM-] [스위치 켜고 끄기](https://www.google.com/url?q=https://www.acmicpc.net/problem/1244&sa=D&source=editors&ust=1676883876171254&usg=AOvVaw00FmQmDSYlkGmcg9dVXvzf)  
-[IM-] [달팽이 숫자](https://www.google.com/url?q=https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId%3DAV5PobmqAPoDFAUq%26categoryId%3DAV5PobmqAPoDFAUq%26categoryType%3DCODE%26problemTitle%3D%25EB%258B%25AC%25ED%258C%25BD%25EC%259D%25B4%26orderBy%3DFIRST_REG_DATETIME%26selectCodeLang%3DALL%26select-1%3D%26pageSize%3D10%26pageIndex%3D1&sa=D&source=editors&ust=1676883876180821&usg=AOvVaw2wit6GbvDMkUBMW4grKkfx)
+[IM] [2005 파스칼의 삼각형](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq)  
+[IM] [2007 패턴 마디의 길이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq)
 
 ___
 예진  
-[IM-] [어디에 단어가 들어갈 수 있을까](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PuPq6AaQDFAUq)  
-[IM] [스도쿠 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq)
+[IM] [2805.농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)  
+[IM] [3499.퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)
 ___
 성진  
-[IM-] [숫자배열회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq)  
-[IM] [가랏! RC카](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq)
+[IM] [4047.영준이의 카드 카운팅](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIsY84KEPMDFAWN)  
+[IM] [4789.성공적인 공연기획](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)
 
 ___
 도형  
-[IM-] [중간 평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pw_-KAdcDFAUq)  
-[IM] [파리퇴치](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq)
+[IM] [4698.테네스의 특별한 소수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)  
+[IM] [5356.의석이세로로말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)
 ___
 
 ## 먹고 싶은 저녁 메뉴
-치킨
+이도 곰탕
+선덕칼국수
