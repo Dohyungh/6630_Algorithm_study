@@ -26,30 +26,37 @@
 ** 둘 다 안함: :money_with_wings::money_with_wings::money_with_wings:    
 
 ## 오늘의 순서
-예진
 도형
 민우
 성진
+예진
 ## 오늘의 문제
 민우  
-[IM] [2005 파스칼의 삼각형](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq)  
-[IM] [2007 패턴 마디의 길이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq)
+[IM] [5432 쇠막대기 자르기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm)  
+[IM] [1204 최빈수 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh)
+
+[A-] [1220. Magnetic](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD) 
 
 ___
 예진  
-[IM] [2805.농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)  
-[IM] [3499.퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)
+[IM] [7964 부먹왕궁의 차원관문](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy)  
+[IM] [11315 오목 판정](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXaSUPYqPYMDFASQ)
+
+[A-] [1289. 원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)  
 ___
 성진  
-[IM] [4047.영준이의 카드 카운팅](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIsY84KEPMDFAWN)  
-[IM] [4789.성공적인 공연기획](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWS2dSgKA8MDFAVT)
+[IM] [7087 문제 제목 붙이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWkIdD46A5EDFAXC)  
+[IM] [1860 진기의 최고급 붕어빵](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LsaaqDzYDFAXc)
+
+[A-] [1493.수의 새로운 연산](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b-QGqADMBBASw)  
 
 ___
 도형  
-[IM] [4698.테네스의 특별한 소수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWRuoqCKkE0DFAXt)  
-[IM] [5356.의석이세로로말해요](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO)
+[IM] [1215 회문1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi)  
+[IM+] [1216 회문2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi)
+
+[A-] [7236.저수지의 물의 총 깊이 구하기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWlTKTUqCN8DFAVS)  
 ___
 
 ## 먹고 싶은 저녁 메뉴
-이도 곰탕
-선덕칼국수
+:chicken: :beers:
