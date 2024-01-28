@@ -32,22 +32,24 @@
 예진
 ## 오늘의 문제
 민우  
-[A-] [1220. Magnetic](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD)  
-[] []()
+[A-] [1220 Magnetic](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD)  
+
 
 ___
 예진  
-[A-] [1289. 원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)  
-[] []()
+[A-] [1289 원재의메모리복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)  
+
+
 ___
 성진  
-[A-] [1493.수의 새로운 연산](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b-QGqADMBBASw)  
-[] []()
+[A-] [1493 수의새로운연산](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b-QGqADMBBASw)  
+
 
 ___
 도형  
-[A-] [7236.저수지의 물의 총 깊이 구하기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWlTKTUqCN8DFAVS)  
-[] []()
+[A-] [7236 저수지의물의총깊이구하기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AWlTKTUqCN8DFAVS)  
+
+
 ___
 
 ## 먹고 싶은 저녁 메뉴
