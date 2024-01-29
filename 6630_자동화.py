@@ -14,9 +14,11 @@ if month <=9:
 if date <=9:
     date = '0' + str(date)
 
-dir_archive = "./archive/"
+directory = "C:/Users/Dohyung/Desktop/ssafy/Github/6630_Algorithm_study/"
+dir_archive = directory+"archive/"
+dir_Calender = directory+"Calender/"
 
-filepath = dir_archive+'/'+"{}_{}_README.md".format(month,date)
+filepath = dir_archive+"{}_{}_README.md".format(month,date)
 
 sites = []
 with open(filepath, "r",encoding="UTF8") as f:
@@ -41,10 +43,9 @@ temps = []
 for folder_name in folder_names:
     temps.append(folder_name.split())
 
-print(temps)
 num_for_each = int(len(folder_names)/4)
 
-os.chdir('Calender')
+os.chdir(dir_Calender)
 os.mkdir('{}_{}_{}'.format(month,date,yoil))
 os.chdir('{}_{}_{}'.format(month,date,yoil))
 f = open('.gitkeep','w')
