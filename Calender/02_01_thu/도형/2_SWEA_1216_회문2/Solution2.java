@@ -32,6 +32,7 @@ public class Solution2 {
 				}
 	//			System.out.println(Arrays.toString(new_arr));
 				
+	// 여기만 보고 넘어가자
 				int flag = 1;
 				int cycle = 1; // 이전 사이클이 한 사이클
 				while (flag == 1) {
@@ -39,12 +40,14 @@ public class Solution2 {
 					cycle++;
 					
 					for (int i = 1; i<N; i++) {
+						// 조사하는 i의 현재 가장 긴 회문의 길이에서  +1 한 곳과 i-1을 비교.
 						if (i+new_arr[i] <N && (new_arr[i]==2*cycle-3 || new_arr[i]==2*cycle-2)) {
 							if (arr[j][i-1]==arr[j][i+new_arr[i]]) {
 								new_arr[i-1] +=2;
 								
 								flag = 1;
 								max = Math.max(max, new_arr[i-1]);
+								// 웬만한 case 맞는 것은 확인.
 								System.out.println(Arrays.toString(new_arr));
 								System.out.println(max);
 							}

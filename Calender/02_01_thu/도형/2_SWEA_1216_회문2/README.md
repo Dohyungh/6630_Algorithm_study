@@ -82,9 +82,11 @@ CCABCCBBCAAAACACBBBBAAAACABACABCCCBACBABBACCAABAAACAB...
 
  
 출력
+```
 #1 18
 #2 17
-... 
+```
+
 ---
 ## 느낀 점
  
