@@ -5,11 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-// 아니 이거 // WWW 7나오는데 통과함;;
-			// WGW
-			// WWW
-
-public class Solution {
+public class Solution2 {
 	public static void main(String[] args) throws IOException {
 		
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
@@ -49,7 +45,10 @@ public class Solution {
 					} else { //아니면 가운데 w 1빼
 						tmp--;
 					}
-					ans = Math.max(ans, tmp);
+					if (ans<tmp && arr[i][j]==1) {// 조건 추가
+						ans = tmp;
+						
+					}
 				}
 			}
 			
