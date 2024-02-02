@@ -26,30 +26,33 @@
 ** 둘 다 안함: :money_with_wings::money_with_wings::money_with_wings:    
 
 ## 오늘의 순서
-민우
-예진
 성진
 도형
+민우
+예진
 ## 오늘의 문제
 민우  
-[IM+] [1859 백만장자프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&&)  
-[A-] [10158 개미](https://www.acmicpc.net/problem/10158)  
+[A-] [2810 컵홀더](https://www.acmicpc.net/problem/2810)  
+[A-] [2851 슈퍼마리오](https://www.acmicpc.net/problem/2851)  
 
 
 ___
 예진  
-[IM+] [6485 삼성시의버스노선](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWczm7QaACgDFAWn)  
-[A-] [2839 설탕배달](https://www.acmicpc.net/problem/2839)  
+[A-] [2941 크로아티아알파벳](https://www.acmicpc.net/problem/2941)  
+[A-] [2999 비밀이메일](https://www.acmicpc.net/problem/2999)  
+
 
 ___
 성진  
-[IM+] [1218 괄호짝짓기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD)  
-[A-] [10163 색종이](https://www.acmicpc.net/problem/10163)  
+[A-] [3985 롤케이크](https://www.acmicpc.net/problem/3985)  
+[A-] [3052 나머지](https://www.acmicpc.net/problem/3052)  
+
 
 ___
 도형  
-[A-] [7272 안경이없어](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz)  
-[A-] [11399 ATM퀴즈](https://www.acmicpc.net/problem/11399)  
+[A-] [8320 직사각형을만드는방법](https://www.acmicpc.net/problem/8320)  
+[A-] [8958 OX퀴즈](https://www.acmicpc.net/problem/8958)  
+
 
 ___
 
