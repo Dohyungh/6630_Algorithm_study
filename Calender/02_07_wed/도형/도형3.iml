@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1_SWEA_7272_안경이없어" isTestSource="false" packagePrefix="SWEA._7272_안경이없어" />
+      <sourceFolder url="file://$MODULE_DIR$/2_BOJ_11399_ATM퀴즈" isTestSource="false" packagePrefix="BOJ._11399_ATM" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
