@@ -54,7 +54,7 @@ public class ___Comparator implements Comparator<___>{
 Collections.sort(List_변수명, new ___Comparator());
 ```
 
-**! 결론적으로 3번에 익숙해지면 됨**
+**! 결론적으로 3번에 익숙해지면 됨**  
 3. 람다 표현식과 익명 클래스 (2번에서 2줄 쓰던 것을 1번에 쓰는 것임.)
 ```java
 Collections.sort(List_변수명, (Cat c1, Cat c2)->{
