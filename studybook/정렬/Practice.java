@@ -1,0 +1,83 @@
+package test08_comparator;
+
+import java.util.Arrays;
+
+public class Practice {
+	public static void print(int[][] arr) {
+		for (int i = 0; i<arr.length; i++) {
+			System.out.print(Arrays.toString(arr[i])+" ");
+			
+		}
+		System.out.println();
+	}
+	public static void main(String[] args) {
+		
+		// Arrays.sort(arr, 람다표현식+익명클래스) 방식을 사용할 것.
+		
+		int[][] arr = {
+				{1,2},
+				{2,3},
+				{3,2},
+				{3,1},
+				{1,1},
+				{1,4},
+				{1,1},
+				{2,1}
+		};
+		
+		// 첫번째 원소로 오름차순 (안정정렬됨)
+		Arrays.sort(arr, //여기 
+				);
+		
+		print(arr); 
+			
+		// 첫번째 원소로 내림차순 (안정정렬됨)
+
+		
+		print(arr);
+		
+		// 첫번째 원소로 오름차순, 두번째 원소로 오름차순
+		Arrays.sort(arr, (o1, o2)-> {
+			if (// 여기) {
+				return // 여기;
+			}
+			return //여기;			
+		});
+		
+		print(arr);
+		
+		// 첫번째 원소로 오름차순, 두번째 원소로 내림차순
+		
+		print(arr);
+		
+		// 두번째 원소로 오름차순, 첫번째 원소로 오름차순
+		
+		print(arr);
+		
+		// 두번째 원소로 오름차순, 첫번째 원소로 내림차순
+		
+		print(arr);
+		
+		// 첫번째 원소로 내림차순, 두번째 원소로 오름차순
+		
+		print(arr);
+		
+		// 첫번째 원소로 내림차순, 두번째 원소로 내림차순
+		
+		print(arr);
+		
+		// 두번째 원소로 내림차순, 첫번째 원소로 오름차순
+		
+		print(arr);
+		
+		// 두번째 원소로 내림차순, 첫번째 원소로 내림차순
+		
+		print(arr);
+		
+			
+		
+	}
+	
+}
+
+
