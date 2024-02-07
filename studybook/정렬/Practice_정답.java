@@ -1,5 +1,3 @@
-package test08_comparator;
-
 import java.util.Arrays;
 
 public class Practice {
