@@ -14,7 +14,7 @@ if month <=9:
 if date <=9:
     date = '0' + str(date)
 
-directory = "C:/Users/Dohyung/Desktop/ssafy/Github/6630_Algorithm_study/"
+directory = "C:/Users/jeje0/Desktop/한도형/SSAFY/6630_Algorithm_study/"
 dir_archive = directory+"archive/"
 dir_Calender = directory+"Calender/"
 
@@ -33,9 +33,11 @@ for url in links:
         sites.append("SWEA")
     elif "jungol" in url[0] :
         sites.append("JOL")
+    elif "school.programmers" in url[0] :
+        sites.append("PRGS")
 f.close()
 
-remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-'}
+remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-','Kakao'}
 
 folder_names = [i for i in folder_names if i not in remove_set]
 
