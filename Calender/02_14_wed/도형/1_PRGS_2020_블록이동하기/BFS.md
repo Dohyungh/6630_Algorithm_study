@@ -5,7 +5,7 @@
 그래프 : Node 와 Edge로 이루어진 자료구조
 
 <p align="center">
-<img src = "./assets/Graph.PNG" width="30%">  
+<img src = "./assets/Graph.png" width="30%">  
 <img src = "./assets/BFS_Graph.PNG" width="35%">  
 </P>  
 
