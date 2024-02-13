@@ -26,32 +26,24 @@
 ** 둘 다 안함: :money_with_wings::money_with_wings::money_with_wings:    
 
 ## 오늘의 순서
-도형
-예진
-민우
 성진
+도형
+민우
+예진
 ## 오늘의 문제
 민우  
-[A-] [1592 영식이와친구들](https://www.acmicpc.net/problem/1592)  
-[A-] [2292 벌집](https://www.acmicpc.net/problem/2292)  
 [Kakao] [2020 자물쇠와열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059?language=java) 
 
 ___
 예진  
-[A-] [2309 일곱난쟁이](https://www.acmicpc.net/problem/2309)  
-[A-] [2477 참외밭](https://www.acmicpc.net/problem/2477)  
 [Kakao] [2020 기둥과보설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061?language=java)  
 
 ___
 성진  
-[A-] [2527 직사각형](https://www.acmicpc.net/problem/2527)  
-[A-] [2563 색종이](https://www.acmicpc.net/problem/2563)  
 [Kakao] [2020 외벽점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062?language=java) 
 
 ___
-도형  
-[A-] [2567 색종이2](https://www.acmicpc.net/problem/2567)  
-[A-] [2798 블랙잭](https://www.acmicpc.net/problem/2798)  
+도형   
 [Kakao] [2020 블록이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063?language=java)  
 
 ___
