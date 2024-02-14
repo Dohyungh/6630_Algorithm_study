@@ -26,35 +26,35 @@
 ** 둘 다 안함: :money_with_wings::money_with_wings::money_with_wings:    
 
 ## 오늘의 순서
-민우
 예진
-성진
 도형
+성진
+민우
 ## 오늘의 문제
 민우  
-[A-] [2810 컵홀더](https://www.acmicpc.net/problem/2810)  
-[A-] [2851 슈퍼마리오](https://www.acmicpc.net/problem/2851)  
+[A-] [1158 요세푸스문제](https://www.acmicpc.net/problem/1158)  
+[A-] [13300 방배정](https://www.acmicpc.net/problem/13300)  
 
 
 ___
 예진  
-[A-] [2941 크로아티아알파벳](https://www.acmicpc.net/problem/2941)  
-[A-] [2999 비밀이메일](https://www.acmicpc.net/problem/2999)  
+[A-] [14696 딱지놀이](https://www.acmicpc.net/problem/14696)  
+[A-] [17413 단어뒤집기2](https://www.acmicpc.net/problem/17413)  
 
 
 ___
 성진  
-[A-] [3985 롤케이크](https://www.acmicpc.net/problem/3985)  
-[A-] [3052 나머지](https://www.acmicpc.net/problem/3052)  
+[A-] [1037 오류교정](https://www.jungol.co.kr/problem/1037)  
+[A-] [1205 조커](https://www.jungol.co.kr/problem/1205)  
 
 
 ___
 도형  
-[A-] [8320 직사각형을만드는방법](https://www.acmicpc.net/problem/8320)  
-[A-] [8958 OX퀴즈](https://www.acmicpc.net/problem/8958)  
+[A-] [1733 오목](https://www.jungol.co.kr/problem/1733)  
+[A-] [11729 하노이탑이동순서](https://www.acmicpc.net/problem/11729)  
 
 
 ___
 
 ## 먹고 싶은 저녁 메뉴
-등촌칼국수
+
