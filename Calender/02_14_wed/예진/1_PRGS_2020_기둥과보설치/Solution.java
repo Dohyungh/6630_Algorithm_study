@@ -115,7 +115,7 @@ public class Solution {
 	
 	public static boolean pillarRemovable(int x, int y) {
 		if (x-1 >= 0 && x+1 <= wallSize) {
-			if (wall[x-1][y+1] == 2 || wall[x+1][y+1] == 1) return false;
+			if (wall[x-1][y+1] == 2 || wall[x+1][y+1] == 1) return false; 
 			else if (wall[x-1][y+1] == 3 && wall[x][y+1] == 5) return false;
 			else if (wall[x+1][y+1] == 3 && wall[x][y+1] == 6) return false;
 		} else if (x == 0 && wall[x+1][y+1] == 1)return false;
