@@ -32,26 +32,26 @@
 민우
 ## 오늘의 문제
 민우  
-[A-] [1158 요세푸스문제](https://www.acmicpc.net/problem/1158)  
-[A-] [13300 방배정](https://www.acmicpc.net/problem/13300)  
+[G4] [3190 뱀](https://www.acmicpc.net/problem/3190)  
+[G4] [14499 주사위굴리기](https://www.acmicpc.net/problem/14499)  
 
 
 ___
 예진  
-[A-] [14696 딱지놀이](https://www.acmicpc.net/problem/14696)  
-[A-] [17413 단어뒤집기2](https://www.acmicpc.net/problem/17413)  
+[G4] [14500 테트로미노](https://www.acmicpc.net/problem/14500)  
+[G4] [14502 연구소](https://www.acmicpc.net/problem/14502)  
 
 
 ___
 성진  
-[A-] [1037 오류교정](https://www.jungol.co.kr/problem/1037)  
-[A-] [1205 조커](https://www.jungol.co.kr/problem/1205)  
+[G5] [14503 로봇청소기](https://www.acmicpc.net/problem/14503)  
+[G5] [14891 톱니바퀴](https://www.acmicpc.net/problem/14891)  
 
 
 ___
 도형  
-[A-] [1733 오목](https://www.jungol.co.kr/problem/1733)  
-[A-] [11729 하노이탑이동순서](https://www.acmicpc.net/problem/11729)  
+[G4] [15683 감시](https://www.acmicpc.net/problem/15683)  
+[G5] [15686 치킨배달](https://www.acmicpc.net/problem/15686)  
 
 
 ___

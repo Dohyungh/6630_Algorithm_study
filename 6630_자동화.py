@@ -37,7 +37,7 @@ for url in links:
         sites.append("PRGS")
 f.close()
 
-remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-','Kakao'}
+remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-','Kakao','G1','G2','G3','G4','G5'}
 
 folder_names = [i for i in folder_names if i not in remove_set]
 
