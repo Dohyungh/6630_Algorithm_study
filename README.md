@@ -1,7 +1,7 @@
 # Team 6630
 
 ## Members
-:six:   육민우 | *"제이육"*,  *"육동동"*, *"육개미"*:ant:, *"육공주"*:princess:, *"테트로민우"*:puzzle:
+:six:   육민우 | *"제이육"*,  *"육동동"*, *"육개미"*:ant:, *"육공주"*:princess:, *"테트로민우"*:diamond_shape_with_a_dot_inside:
 
 :six:   육예진 | *"반장"*, *"예진이의 문단속"*:door:, *"육깜"*:sparkles:
 
