@@ -1,13 +1,13 @@
 # Team 6630
 
 ## Members
-:six:   육민우 | *"제이육"*,  *"육동동"*, *"육개미"*:ant:, *"육공주"*:princess:
+:six:   육민우 | *"제이육"*,  *"육동동"*, *"육개미"*:ant:, *"육공주"*:princess:, *"테트로민우"*:puzzle:
 
-:six:   육예진 | *"반장"*, *"예진이의 문단속"*:door:, *"육깜"*:sparkles:, *"융나니"* :trollface:
+:six:   육예진 | *"반장"*, *"예진이의 문단속"*:door:, *"육깜"*:sparkles:
 
-:three: 배성진 | *"깃짱"*,  *"배정신"*:mortar_board:, *"배청산유수"* 🗣️
+:three: 배성진 | *"깃짱"*  *"배정신"*:mortar_board:
 
-:zero:  한도형 | *"팀장"*, *"댄서 한"* 🕺🏻, *"걸프란?"* 🤷🏻‍♀️
+:zero:  한도형 | *"팀장"*,  화이팅
 
 ## Aim
 :dart: 많은 알고리즘, 문제들 접하기
@@ -26,32 +26,32 @@
 ** 둘 다 안함: :money_with_wings::money_with_wings::money_with_wings:    
 
 ## 오늘의 순서
-민우
+도형
 성진
 예진
-도형
+민우
 ## 오늘의 문제
 민우  
-[G4] [3190 뱀](https://www.acmicpc.net/problem/3190)  
-[G4] [14499 주사위굴리기](https://www.acmicpc.net/problem/14499)  
+[G4] [16234 인구이동](https://www.acmicpc.net/problem/16234)  
+[G3] [16235 나무재테크](https://www.acmicpc.net/problem/16235)  
 
 
 ___
 예진  
-[G4] [14500 테트로미노](https://www.acmicpc.net/problem/14500)  
-[G4] [14502 연구소](https://www.acmicpc.net/problem/14502)  
+[G3] [16236 아기상어](https://www.acmicpc.net/problem/16236)  
+[G4] [17144 미세먼지안녕!](https://www.acmicpc.net/problem/17144)  
 
 
 ___
 성진  
-[G5] [14503 로봇청소기](https://www.acmicpc.net/problem/14503)  
-[G5] [14891 톱니바퀴](https://www.acmicpc.net/problem/14891)  
+[G4] [17140 이차원배열과연산](https://www.acmicpc.net/problem/17140)  
+[G3] [17142 연구소3](https://www.acmicpc.net/problem/17142)  
 
 
 ___
 도형  
-[G4] [15683 감시](https://www.acmicpc.net/problem/15683)  
-[G5] [15686 치킨배달](https://www.acmicpc.net/problem/15686)  
+[G3] [17779 게리맨더링2](https://www.acmicpc.net/problem/17779)  
+[G5] [20055 컨베이어벨트위의로봇](https://www.acmicpc.net/problem/20055)  
 
 
 ___
