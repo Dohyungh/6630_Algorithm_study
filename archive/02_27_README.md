@@ -1,13 +1,13 @@
 # Team 6630
 
 ## Members
-:six:   육민우 | *"제이육"*,  *"육동동"*, *"육개미"*:ant:, *"육공주"*:princess:
+:six:   육민우 | *"제이육"*,  *"육동동"*, *"육개미"*:ant:, *"육공주"*:princess:, *"테트로민우"*:diamond_shape_with_a_dot_inside:
 
-:six:   육예진 | *"반장"*, *"예진이의 문단속"*:door:, *"육깜"*:sparkles:
+:six:   육예진 | *"반장"*, *"예진이의 문단속"*:door:, *"육깜"*:sparkles:, *"융나니"* :trollface:
 
-:three: 배성진 | *"깃짱"*  *"배정신"*:mortar_board:
+:three: 배성진 | *"깃짱"*,  *"배정신"*:mortar_board:, *"배청산유수"* 🗣️
 
-:zero:  한도형 | *"팀장"*,  화이팅
+:zero:  한도형 | *"팀장"*, *"댄서 한"* 🕺🏻, *"걸프란?"* 🤷🏻‍♀️
 
 ## Aim
 :dart: 많은 알고리즘, 문제들 접하기
