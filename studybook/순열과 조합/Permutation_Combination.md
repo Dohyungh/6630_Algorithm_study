@@ -74,7 +74,7 @@ public static void combination(int[] arr, boolean[] visited, int start, int dept
         System.out.println();
         return;
     }
-    for (int i = 0; i<arr.length; i++) {
+    for (int i = start; i<arr.length; i++) {
         if (!visited[i]) {
             visited[i] = true;
             combination(arr,visited, i+1, depth+1, r);
