@@ -37,7 +37,7 @@ for url in links:
         sites.append("PRGS")
 f.close()
 
-remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-','Kakao','G1','G2','G3','G4','G5'}
+remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-','Kakao','G1','G2','G3','G4','G5','S1','S2','S3','S4','S5'}
 
 folder_names = [i for i in folder_names if i not in remove_set]
 
@@ -46,7 +46,7 @@ for folder_name in folder_names:
     temps.append(folder_name.split())
 
 num_for_each = int(len(folder_names)/4)
-
+print(num_for_each)
 os.chdir(dir_Calender)
 os.mkdir('{}_{}_{}'.format(month,date,yoil))
 os.chdir('{}_{}_{}'.format(month,date,yoil))
@@ -66,6 +66,7 @@ for member in team:
         site = sites.pop(0)
         num = temp[0]
         name = temp[1]
+        print(temp)
         os.mkdir("{}_{}_{}_{}".format(str(idx),site,num,name))
         os.chdir("{}_{}_{}_{}".format(str(idx),site,num,name))
         f = open('.gitkeep','w')
