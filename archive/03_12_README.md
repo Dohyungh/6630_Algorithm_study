@@ -32,14 +32,10 @@
 민우
 ## 오늘의 문제
 민우  
-[G4] [16234 인구이동](https://www.acmicpc.net/problem/16234)  
-[G3] [16235 나무재테크](https://www.acmicpc.net/problem/16235)  
 [S4] [1388 바닥장식](https://www.acmicpc.net/problem/1388)
 
 ___
 예진  
-[G3] [16236 아기상어](https://www.acmicpc.net/problem/16236)  
-[G4] [17144 미세먼지안녕!](https://www.acmicpc.net/problem/17144)  
 [S4] [9372 상근이의여행](https://www.acmicpc.net/problem/9372)
 
 ___
