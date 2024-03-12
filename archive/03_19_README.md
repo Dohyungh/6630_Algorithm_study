@@ -29,15 +29,17 @@
 ## 오늘의 순서
 
 ## 오늘의 문제
-[G2] [12100 2048(EASY)](https://www.acmicpc.net/problem/12100)  
-[G3] [15684 사다리조작](https://www.acmicpc.net/problem/15684)  
-[G3] [15685 드래곤커브](https://www.acmicpc.net/problem/15685)  
-[G2] [17837 새로운게임2](https://www.acmicpc.net/problem/17837)  
+**SW_A**  
+[G2] [12100 2048(EASY)](https://www.acmicpc.net/problem/12100)   
+[G3] [15684 사다리조작](https://www.acmicpc.net/problem/15684)   
+[G3] [15685 드래곤커브](https://www.acmicpc.net/problem/15685)   
+[G2] [17837 새로운게임2](https://www.acmicpc.net/problem/17837)   
 
-[G5] [7576 토마토](https://www.acmicpc.net/problem/7576)
-[S2] [11725 트리의부모찾기](https://www.acmicpc.net/problem/11725)
-[S2] [4963 섬의개수](https://www.acmicpc.net/problem/4963)
-[S1] [7562 나이트의이동](https://www.acmicpc.net/problem/7562)
+**DFS,BFS**  
+[G5] [7576 토마토](https://www.acmicpc.net/problem/7576)  
+[S2] [11725 트리의부모찾기](https://www.acmicpc.net/problem/11725)  
+[S2] [4963 섬의개수](https://www.acmicpc.net/problem/4963)  
+[S1] [7562 나이트의이동](https://www.acmicpc.net/problem/7562)  
 
 
 ___
