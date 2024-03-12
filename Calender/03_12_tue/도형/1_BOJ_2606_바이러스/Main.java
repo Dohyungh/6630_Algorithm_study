@@ -24,12 +24,12 @@ public class Main {
 			int idx1 = sc.nextInt();
 			int idx2 = sc.nextInt();
 			
-			if (link[idx1] == null) {
+			if (link[idx1] == null) { // null 이면 한칸 짜리 배열 만들어서 넣어주기
 				link[idx1] = new int[] {idx2};
 			} else {
-				int[] temp = new int[link[idx1].length+1]; 
+				int[] temp = new int[link[idx1].length+1]; // null이 아니었으면, 1칸 더 큰 배열 만들어서 복사해주기
 				System.arraycopy(link[idx1], 0, temp, 0, link[idx1].length);
-				temp[link[idx1].length+1-1] = idx2;
+				temp[link[idx1].length+1-1] = idx2; // 맨 마지막에 넣어주기 -> 결국 이 방식은 문제가 입력을 정렬해서 주는게 아니면 정렬이 안된다.
 				link[idx1] = temp;
 			}
 			if (link[idx2] == null) {
