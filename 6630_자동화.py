@@ -14,7 +14,7 @@ if month <=9:
 if date <=9:
     date = '0' + str(date)
 
-directory = "C:/Users/Dohyung/Desktop/ssafy/Github/6630_Algorithm_study/"
+directory = "C:/Users/SSAFY/Desktop/LUCAS/6630_Algorithm_study/"
 dir_archive = directory+"archive/"
 dir_Calender = directory+"Calender/"
 
@@ -44,8 +44,9 @@ folder_names = [i for i in folder_names if i not in remove_set]
 temps = []
 for folder_name in folder_names:
     temps.append(folder_name.split())
+categories= [temps.pop(0)[0],temps.pop(0)[0]] #SW_A, BFS,DFS
 
-num_for_each = int(len(folder_names)/4)
+num_for_each = int(len(temps)/2)
 print(num_for_each)
 os.chdir(dir_Calender)
 os.mkdir('{}_{}_{}'.format(month,date,yoil))
@@ -54,25 +55,53 @@ f = open('.gitkeep','w')
 f.close()
 
 team = ['민우','예진','성진','도형']
-for member in team:
-    os.mkdir(member)
-    os.chdir(member)
-    f = open('.gitkeep','w')
-    f.close()
 
-    
+
+
+print(temps)
+flag = True
+for category in categories:
+    os.mkdir(category)
+    os.chdir(category)
     for idx in range(1,num_for_each+1):
-        temp = temps.pop(0)
-        site = sites.pop(0)
+        
+        if flag :
+            temp = temps.pop(idx)
+            site = sites.pop(idx)
+        else :
+            temp = temps.pop(0)
+            site = sites.pop(0)
+
         num = temp[0]
         name = temp[1]
-        print(temp)
-        os.mkdir("{}_{}_{}_{}".format(str(idx),site,num,name))
-        os.chdir("{}_{}_{}_{}".format(str(idx),site,num,name))
+        team_member = team[idx-1]
+
+        os.mkdir("{}_{}_{}_{}_{}".format(str(idx),site,num,name,team_member))
+        os.chdir("{}_{}_{}_{}_{}".format(str(idx),site,num,name,team_member))
         f = open('.gitkeep','w')
         f.close()
         os.chdir('..')
     os.chdir('..')
+    flag = False
+
+
+
+    # for idx,idx in team:
+    #     f = open('.gitkeep','w')
+    #     f.close()
+        
+    #     for idx in range(1,num_for_each+1):
+    #         temp = temps.pop(0)
+    #         site = sites.pop(0)
+    #         num = temp[0]
+    #         name = temp[1]
+    #         print(temp)
+    #         os.mkdir("{}_{}_{}_{}_{}".format(str(idx),site,num,name,member))
+    #         os.chdir("{}_{}_{}_{}_{}".format(str(idx),site,num,name,member))
+    #         f = open('.gitkeep','w')
+    #         f.close()
+    #         os.chdir('..')
+    #     os.chdir('..')
 
 
 
