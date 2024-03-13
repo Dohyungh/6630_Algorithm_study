@@ -78,6 +78,7 @@ for category in categories:
 
         os.mkdir("{}_{}_{}_{}_{}".format(str(idx),site,num,name,team_member))
         os.chdir("{}_{}_{}_{}_{}".format(str(idx),site,num,name,team_member))
+        os.mkdir('assets')
         f = open('.gitkeep','w')
         f.close()
         os.chdir('..')
