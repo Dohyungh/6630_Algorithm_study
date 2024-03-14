@@ -34,7 +34,7 @@
 
 ## 오늘의 문제
 
-[SW_A], [BFS,DFS]
+[BFS,DFS], [SW_A]  
 
 민우  
 [G2] [12100 2048(EASY)](https://www.acmicpc.net/problem/12100)   
