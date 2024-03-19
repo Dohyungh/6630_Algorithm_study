@@ -10,4 +10,4 @@
 ## 출력
 첫째 줄부터 N-1개의 줄에 각 노드의 부모 노드 번호를 2번 노드부터 순서대로 출력한다.
 
-![alt text](/assets/image.png)
+![alt text](assets/image.png)
