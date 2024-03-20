@@ -27,9 +27,9 @@
 ** 둘 다 안함: :money_with_wings::money_with_wings::money_with_wings:    
 
 ## 오늘의 순서
-예진
 민우
 도형
+예진
 성진
 
 ## 오늘의 문제
@@ -37,18 +37,19 @@
 [BFS,DFS], [SW_A]  
 
 민우  
- 
+[G3] [17370 육각형우리속의개미](https://www.acmicpc.net/problem/17370)
 
 ___
 예진  
- 
+[G2] [13502 단어퍼즐2](https://www.acmicpc.net/problem/13502)
 
 ___
 성진  
- 
+[G4] [14673 CrushFever](https://www.acmicpc.net/problem/14673)
 
 ___
 도형  
+[G2] [19236 청소년상어](https://www.acmicpc.net/problem/19236)
 
 
 
