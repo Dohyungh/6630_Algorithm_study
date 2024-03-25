@@ -57,7 +57,7 @@ ___
 공통
 [G2] [12100 2048(EASY)](https://www.acmicpc.net/problem/12100)   
 [G3] [15684 사다리조작](https://www.acmicpc.net/problem/15684)   
-
+[G2] [1256 사전](https://www.acmicpc.net/problem/1256)
 
 
 ## 먹고 싶은 저녁 메뉴
