@@ -37,20 +37,20 @@
 [DP], [SW_A]  
 
 민우  
-[G2] [17822 원판돌리기](https://www.acmicpc.net/problem/17822)
-[S1] [11057 오르막수](https://www.acmicpc.net/problem/11057)
+[G2] [17822 원판돌리기](https://www.acmicpc.net/problem/17822)  
+[S1] [11057 오르막수](https://www.acmicpc.net/problem/11057)  
 ___
 예진  
-[G2] [17825 주사위윷놀이](https://www.acmicpc.net/problem/17825)
-[G5] [12865 평범한배낭](https://www.acmicpc.net/problem/12865)
+[G2] [17825 주사위윷놀이](https://www.acmicpc.net/problem/17825)  
+[G5] [12865 평범한배낭](https://www.acmicpc.net/problem/12865)  
 ___
 성진  
-[G2] [20061 모노미노도미노2](https://www.acmicpc.net/problem/20061)
-[S1] [1890 점프](https://www.acmicpc.net/problem/1890)
+[G2] [20061 모노미노도미노2](https://www.acmicpc.net/problem/20061)  
+[S1] [1890 점프](https://www.acmicpc.net/problem/1890)  
 ___
 도형  
-[G2] [19237 어른상어](https://www.acmicpc.net/problem/19237)
-[D1] [2112 보호필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)
+[G2] [19237 어른상어](https://www.acmicpc.net/problem/19237)  
+[D1] [2112 보호필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)  
 
 
 ## 먹고 싶은 저녁 메뉴
