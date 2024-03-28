@@ -14,7 +14,7 @@ if month <=9:
 if date <=9:
     date = '0' + str(date)
 
-directory = "C:/Users/Dohyung/Desktop/ssafy/Github/6630_Algorithm_study/"
+directory = "C:/Users/SSAFY/Desktop/LUCAS/6630_Algorithm_study/"
 dir_archive = directory+"archive/"
 dir_Calender = directory+"Calender/"
 
@@ -25,7 +25,6 @@ with open(filepath, "r",encoding="UTF8") as f:
     urls = f.read()
     folder_names = re.findall('\[([^]]+)\]', urls)
     links = re.findall("((http)s?://.*)", urls)
-
 for url in links:
     if "acmicpc" in url[0] :
         sites.append("BOJ")
@@ -37,17 +36,18 @@ for url in links:
         sites.append("PRGS")
 f.close()
 
-remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-','Kakao','G1','G2','G3','G4','G5','S1','S2','S3','S4','S5'}
+remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-','Kakao','G1','G2','G3','G4','G5','S1','S2','S3','S4','S5','D1','D2','D3','D4','D5','D6','D7','D8'}
 
 folder_names = [i for i in folder_names if i not in remove_set]
 
 temps = []
 for folder_name in folder_names:
     temps.append(folder_name.split())
+
 categories= [temps.pop(0)[0],temps.pop(0)[0]] #SW_A, BFS,DFS
 
 num_for_each = int(len(temps)/2)
-print(num_for_each)
+
 os.chdir(dir_Calender)
 os.mkdir('{}_{}_{}'.format(month,date,yoil))
 os.chdir('{}_{}_{}'.format(month,date,yoil))
