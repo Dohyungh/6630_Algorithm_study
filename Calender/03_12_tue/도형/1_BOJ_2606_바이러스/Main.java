@@ -13,7 +13,7 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 		int N = sc.nextInt();
-//		List<Integer>[] link = new ArrayList<Integer>[N]; 불가!
+//		List<Integer>[] link = new ArrayList[N]; 불가!
 //		입력이 이렇게 주어지면 인접행렬을 안쓸 수가 있나??? 있네!!
 		
 		int[][] link = new int[N+1][]; // 컴퓨터가 1번부터, 0번은 더미로 쓰자

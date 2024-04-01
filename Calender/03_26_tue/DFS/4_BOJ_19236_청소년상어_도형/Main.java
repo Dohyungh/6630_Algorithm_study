@@ -12,8 +12,6 @@ public class Main {
 	
 	static int answer = 0;
 	
-
-	
 	public static void main(String[] args) {
 		
 		// 복잡시럽다
@@ -26,6 +24,8 @@ public class Main {
 		int[][] fishes = new int[16][3]; // r, c, dir
 		int[] shark = new int[3]; // r, c, dir
 		
+
+
 		int n = 0; // 이건 입력받는 순서이자, Map을 쭉 늘어뜨렸을때의 좌표(자리)가 됨
 		int eaten = 0;
 		while (n <16) { //16개를 입력받을 건데
@@ -104,7 +104,6 @@ public class Main {
 		return fishes;
 	}
 	
-	
 	public static void moveShark(int[][] fishes, int[] shark, int eaten) {
 		
 		// 맵을 여러방향으로 갖고 내려가야 해서 ""non-static + 복사 콤보를 쓴다!...""
@@ -114,6 +113,8 @@ public class Main {
 
 		fishes = moveFishes(fishes, shark);
 		// 물고기를 모두 움직이고,
+
+
 
 
 		// 이해하기 편하게 + 실수 안하게 변수명으로 바꾼다.
@@ -149,6 +150,8 @@ public class Main {
 		
 		for (int i = 0; i < candidates.size(); i++) { // 여따 사이즈 넣는 거 원래 위험함! 지금은 추가를 안해주니까 그냥 썼다. 원래는 변수 하나 만들고 저장해 쓰는게 맞다.
 			
+
+
 			// 물고기 배열을 복사해서 넘겨주거나
 			int[][] tempFishes = new int[16][3];
 			for(int j = 0; j < 16; j++) {
