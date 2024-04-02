@@ -38,3 +38,5 @@
 ```
 133
 ```
+
+![알고리즘-95](https://github.com/Dohyungh/6630_Algorithm_study/assets/156047141/ae16e349-1b66-4e17-80a6-e2f34fef235b)

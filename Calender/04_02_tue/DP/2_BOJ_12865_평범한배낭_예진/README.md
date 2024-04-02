@@ -30,3 +30,4 @@
 ```
 14
 ```
+![img](https://github.com/Dohyungh/6630_Algorithm_study/assets/156047141/d1fc34a4-8fed-492d-91d0-f8458b550bb7)
