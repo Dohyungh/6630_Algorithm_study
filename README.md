@@ -27,31 +27,30 @@
 ** 둘 다 안함: :money_with_wings::money_with_wings::money_with_wings:    
 
 ## 오늘의 순서
-민우  
 성진  
 예진  
 도형  
+민우  
 
 ## 오늘의 문제
 
 [DP], [SW_A]  
 
 민우  
-[G2] [17822 원판돌리기](https://www.acmicpc.net/problem/17822)  
-[S1] [11057 오르막수](https://www.acmicpc.net/problem/11057)  
+[G2] [19238 스타트택시](https://www.acmicpc.net/problem/19238)  
+[G3] [1005 ACMCRAFT](https://www.acmicpc.net/problem/1005)  
 ___
 예진  
-[G2] [17825 주사위윷놀이](https://www.acmicpc.net/problem/17825)  
-[G5] [12865 평범한배낭](https://www.acmicpc.net/problem/12865)  
+[G4] [20056 마법사상어와파이어볼](https://www.acmicpc.net/problem/20056)  
+[G4] [10942 팰린드롬물음표](https://www.acmicpc.net/problem/10942)  
 ___
 성진  
-[G2] [20061 모노미노도미노2](https://www.acmicpc.net/problem/20061)  
-[S1] [1890 점프](https://www.acmicpc.net/problem/1890)  
+[G3] [20057 마법사상어와토네이도](https://www.acmicpc.net/problem/20057)  
+[G3] [11049 행렬곱셈순서](https://www.acmicpc.net/problem/11049)  
 ___
 도형  
-[G2] [19237 어른상어](https://www.acmicpc.net/problem/19237)  
-[D1] [2112 보호필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu)  
+[G3] [20058 마법사상어와파이어스톰](https://www.acmicpc.net/problem/20058)  
+[G3] [1520 내리막길](https://www.acmicpc.net/problem/1520)  
 
 
 ## 먹고 싶은 저녁 메뉴
-
