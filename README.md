@@ -29,33 +29,30 @@
 ** 둘 다 안함: :money_with_wings::money_with_wings::money_with_wings:    
 
 ## 오늘의 순서
-예진  
 성진  
-도형  
 민우  
+예진  
+도형  
 
 ## 오늘의 문제
 
-[2_TwoPointer], [1_Dijkstra]  
+[2_TwoPointer], [1_A]  
 
 민우  
 [G2] [2211 네트워크복구](https://www.acmicpc.net/problem/2211)  
-[G4] [1806 부분합](https://www.acmicpc.net/problem/1806)  
+[G1] [0000 Dummy](https://www.acmicpc.net/problem/dummy)  
 
 ___
 예진  
 [G2] [1445 일요일아침의데이트](https://www.acmicpc.net/problem/1445)  
-[G4] [1253 (보기)좋다](https://www.acmicpc.net/problem/1253)  
-
+[G1] [0000 Dummy](https://www.acmicpc.net/problem/dummy)  
 ___
 성진  
 [G1] [0429 배성진화이팅](https://www.acmicpc.net/problem/0429)  
-[G1] [0429 엄마난커서배성진이될래요](https://www.acmicpc.net/problem/0429)    
-  
+[G1] [0000 Dummy](https://www.acmicpc.net/problem/dummy)    
 ___
 도형  
-[G1] [1800 인터넷설치](https://www.acmicpc.net/problem/1800)  
-[G1] [2461 대표선수](https://www.acmicpc.net/problem/2461)  
-
+[G2] [12015 가장긴증가하는부분수열2](https://www.acmicpc.net/problem/12015)  
+[G1] [0000 Dummy](https://www.acmicpc.net/problem/dummy)  
 
 ## 먹고 싶은 저녁 메뉴
