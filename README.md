@@ -6,7 +6,7 @@
 
 :six:   육예진 | *"반장"*, *"예진이의 문단속"*:door:, *"육깜"*:sparkles:, *"융나니"* :trollface:, *"육-Queen"* 👑
 
-:three: 배성진 | *"깃짱"*,  *"배정신"*:mortar_board:, *"배청산유수"* 🗣️
+:three: 배성진 | *"깃짱"*,  *"배정신"*:mortar_board:, *"배청산유수"* 🗣️, *"배장원"* :eyeglasses:
 
 :zero:  한도형 | *"팀장"*, *"댄서 한"* 🕺🏻, *"걸프란?"* 🤷🏻‍♀️, *"GarbageCollector"* 🤖
 
