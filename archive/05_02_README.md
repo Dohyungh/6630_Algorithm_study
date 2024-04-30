@@ -44,7 +44,7 @@
 
 ___
 예진  
-[D1] [1953 탈주범검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)  
+[D1] [1953 탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)  
 [G1] [0000 Dummy](https://www.acmicpc.net/problem/dummy)  
 ___
 성진  
