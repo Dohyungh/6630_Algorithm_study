@@ -14,7 +14,9 @@ if month <=9:
 if date <=9:
     date = '0' + str(date)
 
-directory = "C:/Users/SSAFY/Desktop/LUCAS/6630_Algorithm_study/"
+
+# directory = "C:/Users/SSAFY/Desktop/LUCAS/6630_Algorithm_study/"
+directory = "/Users/handohyung/SSAFY/github/6630_Algorithm_study/"
 dir_archive = directory+"archive/"
 dir_Calender = directory+"Calender/"
 
@@ -54,7 +56,7 @@ os.chdir('{}_{}_{}'.format(month,date,yoil))
 f = open('.gitkeep','w')
 f.close()
 
-team = ['민우','예진','성진','도형']
+team = ['민우','예진','성진','세하','도형']
 
 
 
