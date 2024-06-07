@@ -15,8 +15,9 @@ if date <=9:
     date = '0' + str(date)
 
 
+directory = "C:/Users/Dohyung/Desktop/ssafy/Github/6630_Algorithm_study/"
 # directory = "C:/Users/SSAFY/Desktop/LUCAS/6630_Algorithm_study/"
-directory = "/Users/handohyung/SSAFY/github/6630_Algorithm_study/"
+# directory = "/Users/handohyung/SSAFY/github/6630_Algorithm_study/"
 dir_archive = directory+"archive/"
 dir_Calender = directory+"Calender/"
 
