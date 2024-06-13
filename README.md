@@ -61,7 +61,7 @@ ___
 
 ___
 세하  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/0000)  
+[S1] [1931 회의실배정](https://www.acmicpc.net/problem/1931) 
 
 
 ___
