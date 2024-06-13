@@ -51,7 +51,7 @@ ___
 
 ___
 예진  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/0000)  
+[G4] [11559 PuyoPuyo](https://www.acmicpc.net/problem/11559)  
 
 
 ___
