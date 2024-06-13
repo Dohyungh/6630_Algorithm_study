@@ -56,8 +56,8 @@ ___
 
 ___
 세하  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/0000)  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/0000)  
+[G4] [1976 여행가자](https://www.acmicpc.net/problem/1976)  
+[S1] [1931 회의실배정](https://www.acmicpc.net/problem/1931)  
 
 
 ___
