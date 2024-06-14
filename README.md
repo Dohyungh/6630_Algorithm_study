@@ -46,7 +46,7 @@
 
 ___
 민우  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/0000)  
+[S2] [2805 나무자르기](https://www.acmicpc.net/problem/2805)  
 
 
 ___
@@ -56,7 +56,7 @@ ___
 
 ___
 성진  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/0000)  
+[Kakao] [2022 k진수에서소수개수구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  
 
 
 ___

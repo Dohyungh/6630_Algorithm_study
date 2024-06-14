@@ -39,31 +39,35 @@
 
 [2_개인], [1_공통]  
 
-민우  
+공통  
 [G4] [1976 여행가자](https://www.acmicpc.net/problem/1976)  
 [G3] [11437 LCA](https://www.acmicpc.net/problem/11437)  
+[Kakao] [2023 미로탈출명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)  
+
+___
+민우  
+[S2] [2805 나무자르기](https://www.acmicpc.net/problem/2805)  
+
 
 ___
 예진  
-[Kakao] [2023 미로탈출명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/0000)  
+[G4] [11559 PuyoPuyo](https://www.acmicpc.net/problem/11559)  
+
 
 ___
 성진  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/0000)  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/0000)  
+[Kakao] [2022 k진수에서소수개수구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)  
 
 
 ___
 세하  
-[G4] [1976 여행가자](https://www.acmicpc.net/problem/1976)  
-[S1] [1931 회의실배정](https://www.acmicpc.net/problem/1931)  
+[S1] [1931 회의실배정](https://www.acmicpc.net/problem/1931) 
 
 
 ___
 도형  
-[Kakao] [2023 파괴되지않은건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/0000)  
+[Kakao] [2022 파괴되지않은건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)  
+
 
 
 ## 먹고 싶은 저녁 메뉴
