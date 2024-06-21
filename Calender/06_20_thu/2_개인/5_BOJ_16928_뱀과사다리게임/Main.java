@@ -58,7 +58,6 @@ public class Main {
         int N = scanner.nextInt(); // 사다리의 수
         int M = scanner.nextInt(); // 뱀의 수
         
-        @SuppressWarnings("unchecked")
         List<Integer>[] board = new ArrayList[101];
         
         // 보드판 초기화
