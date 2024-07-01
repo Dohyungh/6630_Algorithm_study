@@ -39,7 +39,7 @@ for url in links:
         sites.append("PRGS")
 f.close()
 
-remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-','Kakao','G1','G2','G3','G4','G5','S1','S2','S3','S4','S5','D1','D2','D3','D4','D5','D6','D7','D8'}
+remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-','Kakao','G1','G2','G3','G4','G5','S1','S2','S3','S4','S5','D1','D2','D3','D4','D5','D6','D7','D8','L1','L2','L3','L4','L5','P1','P2','P3','P4','P5'}
 
 folder_names = [i for i in folder_names if i not in remove_set]
 
@@ -62,25 +62,33 @@ team = ['민우','예진','성진','세하','도형']
 
 
 print(temps)
+print(categories)
+print(categories[-1])
+
+
+
 flag = True
 for category in categories:
     os.mkdir(category)
     os.chdir(category)
-    for idx in range(1,num_for_each+1):
+    if flag :
+        num_for_each = 2
+    else :
+        num_for_each = 5
         
-        if flag :
-            temp = temps.pop(idx)
-            site = sites.pop(idx)
-        else :
-            temp = temps.pop(0)
-            site = sites.pop(0)
+    for idx in range(1,num_for_each+1):
+
+        temp = temps.pop(0)
+        site = sites.pop(0)
 
         num = temp[0]
         name = temp[1]
-        team_member = team[idx-1]
+        team_member = "_" + team[idx-1]
+        if flag :
+            team_member = ""
 
-        os.mkdir("{}_{}_{}_{}_{}".format(str(idx),site,num,name,team_member))
-        os.chdir("{}_{}_{}_{}_{}".format(str(idx),site,num,name,team_member))
+        os.mkdir("{}_{}_{}_{}{}".format(str(idx),site,num,name,team_member))
+        os.chdir("{}_{}_{}_{}{}".format(str(idx),site,num,name,team_member))
         os.mkdir('assets')
         os.chdir('assets')
         f = open('.gitkeep','w')
@@ -89,6 +97,8 @@ for category in categories:
         f = open('.gitkeep','w')
         f.close()
         os.chdir('..')
+
+        
     os.chdir('..')
     flag = False
 
