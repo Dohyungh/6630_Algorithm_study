@@ -8,7 +8,7 @@
 
 :three: 배성진 | *"깃짱"*,  *"배정신"*:mortar_board:, *"배청산유수"* 🗣️, *"배장원"* :eyeglasses:
 
-:zero: 임세하 | *"알콜짱"*:cocktail:
+:zero: 임세하 | *"알콜짱"*:cocktail:, *"imbigworld"*🌎
 
 💯 한도형 | *"팀장"*, *"댄서 한"* 🕺🏻, *"걸프란?"* 🤷🏻‍♀️, *"GarbageCollector"* 🤖
 
@@ -46,22 +46,22 @@
 
 ___
 민우  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/dummy)  
+[G3] [21276 계보복원가호석](https://www.acmicpc.net/problem/21276)  
 
 
 ___
 예진  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/dummy)  
+[G4] [12869 뮤탈리스크](https://www.acmicpc.net/problem/12869)  
 
 
 ___
 성진  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/dummy)  
+[L2] [169199 리코쳇로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)  
 
 
 ___
 세하  
-[G1] [0000 Dummy](https://www.acmicpc.net/problem/dummy)  
+[G5] [16928 뱀과사다리게임](https://www.acmicpc.net/problem/16928)  
 
 
 ___
