@@ -40,7 +40,7 @@
 [1_공통], [2_개인]  
 
 공통  
-[G4] [1846 장기](hhttps://www.acmicpc.net/problem/1846)  
+[G4] [1846 장기](https://www.acmicpc.net/problem/1846)  
 [G2] [16985 Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)  
 
 ___
