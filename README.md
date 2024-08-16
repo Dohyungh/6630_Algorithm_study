@@ -59,7 +59,7 @@
 ---
 
 성진  
-[Kakao] [148652 유사칸토어비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
+[G3] [14725 개미굴](https://www.acmicpc.net/problem/14725)
 
 ---
 
