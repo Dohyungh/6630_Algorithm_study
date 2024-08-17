@@ -94,7 +94,7 @@ for category in categories:
         f = open('.gitkeep','w')
         f.close()
         os.chdir('..')
-        f = open('.gitkeep','w')
+        f = open('README.md','w')
         f.close()
         os.chdir('..')
 
