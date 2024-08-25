@@ -37,6 +37,8 @@ for url in links:
         sites.append("JOL")
     elif "school.programmers" in url[0] :
         sites.append("PRGS")
+    elif "softeer" in url[0] :
+        sites.append("SFTR")
 f.close()
 
 remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-','Kakao','Hyundai','G1','G2','G3','G4','G5','S1','S2','S3','S4','S5','D1','D2','D3','D4','D5','D6','D7','D8','L1','L2','L3','L4','L5','P1','P2','P3','P4','P5'}
@@ -49,7 +51,6 @@ for folder_name in folder_names:
 
 categories= [temps.pop(0)[0],temps.pop(0)[0]] #SW_A, BFS,DFS
 
-num_for_each = int(len(temps)/2)
 
 os.chdir(dir_Calender)
 os.mkdir('{}_{}_{}'.format(month,date,yoil))
@@ -57,7 +58,8 @@ os.chdir('{}_{}_{}'.format(month,date,yoil))
 f = open('.gitkeep','w')
 f.close()
 
-team = ['민우','예진','성진','세하','도형']
+# team = ['민우','예진','성진','세하','도형']
+team = ['민우','예진','성진','도형']
 
 
 
@@ -72,9 +74,9 @@ for category in categories:
     os.mkdir(category)
     os.chdir(category)
     if flag :
-        num_for_each = 2
+        num_for_each = 4 # 공통 총 개수
     else :
-        num_for_each = 5
+        num_for_each = 4 # 개인 총 개수
         
     for idx in range(1,num_for_each+1):
 
