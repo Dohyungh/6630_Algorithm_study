@@ -43,9 +43,9 @@
 
 공통  
 [S3] [2910 빈도정렬](https://www.acmicpc.net/problem/2910)  
-[G5] [15681 트리와쿼리](https://www.acmicpc.net/problem/15681)
-[G4] [9935 문자열폭발](https://www.acmicpc.net/problem/9935)
-[L3] [6248 출퇴근길](https://softeer.ai/practice/6248)
+[G5] [15681 트리와쿼리](https://www.acmicpc.net/problem/15681)  
+[G4] [9935 문자열폭발](https://www.acmicpc.net/problem/9935)  
+[L3] [6248 출퇴근길](https://softeer.ai/practice/6248)  
 
 ---
 
