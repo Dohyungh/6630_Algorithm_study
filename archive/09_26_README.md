@@ -42,13 +42,13 @@
 [1_공통], [2_개인]
 
 공통  
-[G1] [1234 ㅇㅇ](https://www.acmicpc.net/problem/1234)  
+[G4] [14226 이모티콘](https://www.acmicpc.net/problem/14226)  
 [G5] [2170 선긋기](https://www.acmicpc.net/problem/2170)
 
 ---
 
 민우  
-[G1] [1234 ㅇㅇ](https://www.acmicpc.net/problem/1234)
+[G4] [1987 알파벳](https://www.acmicpc.net/problem/1987)
 
 ---
 
