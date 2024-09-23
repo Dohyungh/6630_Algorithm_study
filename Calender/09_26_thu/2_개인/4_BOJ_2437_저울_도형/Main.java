@@ -2,7 +2,19 @@ package BOJ._2437_저울;
 
 import java.util.Arrays;
 import java.util.Scanner;
+/*
+1 1 2 3 6 7 30
 
+1
+
+1 2
+
+   2 3 4
+
+      3 4 5 6 7 
+              6 7 8 ...  13
+                 7 .............................20
+*/
 public class Main {
 	public static void main(String[] args) {
 		
