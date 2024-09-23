@@ -32,39 +32,37 @@
 
 ## 오늘의 순서
 
-예진  
 도형  
-성진  
-민우
+민우  
+예진  
+성진
 
 ## 오늘의 문제
 
 [1_공통], [2_개인]
 
 공통  
-[S3] [2910 빈도정렬](https://www.acmicpc.net/problem/2910)  
-[G5] [15681 트리와쿼리](https://www.acmicpc.net/problem/15681)  
-[G4] [9935 문자열폭발](https://www.acmicpc.net/problem/9935)  
-[L3] [6248 출퇴근길](https://softeer.ai/practice/6248)  
+[G1] [1234 ㅇㅇ](https://www.acmicpc.net/problem/1234)  
+[G5] [2170 선긋기](https://www.acmicpc.net/problem/2170)
 
 ---
 
 민우  
-[G4] [16434 드래곤앤던전](https://www.acmicpc.net/problem/16434)
+[G1] [1234 ㅇㅇ](https://www.acmicpc.net/problem/1234)
 
 ---
 
 예진  
-[G3] [16934 게임닉네임](https://www.acmicpc.net/problem/16934)
+[G3] [1701 Cubeditor](https://www.acmicpc.net/problem/1701)
 
 ---
 
 성진  
-[Kakao] [2020 수식최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
+[Pccp] [340211 충돌위험찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)
 
 ---
 
 도형  
-[Kakao] [2021 순위검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)
+[G2] [2437 저울](https://www.acmicpc.net/problem/2437)
 
 ## 먹고 싶은 저녁 메뉴
