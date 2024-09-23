@@ -15,8 +15,8 @@ if date <=9:
     date = '0' + str(date)
 
 
-directory = "C:/Users/Dohyung/Desktop/ssafy/Github/6630_Algorithm_study/"
-# directory = "C:/Users/SSAFY/Desktop/LUCAS/6630_Algorithm_study/"
+# directory = "C:/Users/Dohyung/Desktop/ssafy/Github/6630_Algorithm_study/"
+directory = "C:/Users/SSAFY/Desktop/ssafy/github/6630_Algorithm_study/"
 # directory = "/Users/handohyung/SSAFY/github/6630_Algorithm_study/"
 dir_archive = directory+"archive/"
 dir_Calender = directory+"Calender/"
@@ -41,7 +41,7 @@ for url in links:
         sites.append("SFTR")
 f.close()
 
-remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-','Kakao','Hyundai','G1','G2','G3','G4','G5','S1','S2','S3','S4','S5','D1','D2','D3','D4','D5','D6','D7','D8','L1','L2','L3','L4','L5','P1','P2','P3','P4','P5'}
+remove_set = {'IM', 'IM-','IM+','A','A-','A+','B','B+','B-','Kakao','Hyundai', 'Pccp', 'G1','G2','G3','G4','G5','S1','S2','S3','S4','S5','D1','D2','D3','D4','D5','D6','D7','D8','L1','L2','L3','L4','L5','P1','P2','P3','P4','P5'}
 
 folder_names = [i for i in folder_names if i not in remove_set]
 
@@ -74,7 +74,7 @@ for category in categories:
     os.mkdir(category)
     os.chdir(category)
     if flag :
-        num_for_each = 4 # 공통 총 개수
+        num_for_each = 2 # 공통 총 개수
     else :
         num_for_each = 4 # 개인 총 개수
         
