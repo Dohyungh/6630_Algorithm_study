@@ -6,63 +6,26 @@
 
 :six: 육예진 | _"반장"_, _"예진이의 문단속"_:door:, _"육깜"_:sparkles:, _"융나니"_ :trollface:, _"육-Queen"_ 👑
 
-:three: 배성진 | _"깃짱"_, _"배정신"_:mortar*board:, *"배청산유수"_ 🗣️, _"배장원"\_ :eyeglasses:
+:three: 임세하 | _"알콜짱"_:cocktail:, _"imhelloworld"_ 🌎, _"짱쎄하"_ 💪, _"좀 쎄한데"_ 👀, _유학끝남_ 🎉
 
-:zero: 임세하 | _"알콜짱"_:cocktail:, _"imhelloworld"_ 🌎, _"짱쎄하"_ 💪, _"좀 쎄한데"_ 👀, **_유학중_** 🚀
+:zero: 한도형 | _"팀장"_, _"댄서 한"_ 🕺🏻, _"걸프란?"_ 🤷🏻‍♀️, _"GarbageCollector"_ 🤖
 
-💯 한도형 | _"팀장"_, _"댄서 한"_ 🕺🏻, _"걸프란?"_ 🤷🏻‍♀️, _"GarbageCollector"_ 🤖
+💯 배성진 | _"깃짱"_, _"배정신"_:mortar\*board:, _"배청산유수"_ 🗣️, _"배장원"_ :eyeglasses:, **_졸업_** 🎓
 
 ## Aim
 
-:dart: 많은 알고리즘, 문제들 접하기
-
-:dart: 코딩테스트 대비하기
+:dart: 코딩테스트 집중 공략  
+:dart: 자유롭게 원하는 문제와 내용을 공부하기
 
 ## Rules
 
-:pushpin: 매주 목,  
-:pushpin: 인당 2문제  
-:pushpin: 10시 땡하면 무조건 짐싸기  
-:pushpin: 저녁 메뉴 취향 존중  
-:pushpin: :rage: _벌금_ :rage:  
-** 일정 변동시 1주일 전까지 공지!!  
-** 그 이후 결석 통보: :money_with_wings:  
-** 자료 안 올림(스터디 시작전까지): :money_with_wings:  
-** 둘 다 안함: :money_with_wings::money_with_wings::money_with_wings:
+📌 매주 일요일~월요일 자정까지 지라 티켓 생성
+📌 티켓 내용(풀고 싶은 문제 등)은 자유롭게 변경 가능하지만, 기한을 바꾸거나 삭제는 불가!
 
-## 오늘의 순서
+📌 😡 _벌금_ 😡
 
-도형  
-예진  
-민우  
-성진
-
-## 오늘의 문제
-
-[1_공통], [2_개인]
-
-공통  
-[G4] [1477 휴게소세우기](https://www.acmicpc.net/problem/1477)  
-[G4] [14267 회사문화1](https://www.acmicpc.net/problem/14267)
+** 하루 계획 못 지킬 시 벌금 2000원  
+** 계획 안 올릴 시 벌금 5000원  
+\*\* 모의 코딩 테스트 무단 불참(당일 통보) 30000원
 
 ---
-
-민우  
-[G4] [1027 고층건물](https://www.acmicpc.net/problem/1027)
-
----
-
-예진  
-[P5] [1786 찾기](https://www.acmicpc.net/problem/1786)
-
----
-
-성진  
-[G4] [1261 알고스팟](https://www.acmicpc.net/problem/1261)
-
----
-
-도형  
-[G2] [10473 인간대포](https://www.acmicpc.net/problem/10473)
-
-## 먹고 싶은 저녁 메뉴
