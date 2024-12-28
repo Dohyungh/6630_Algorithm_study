@@ -25,10 +25,10 @@ public class Main_BFS {
 
         int N = Integer.parseInt(br.readLine());
 
-        System.out.println(BFS(N));
+        System.out.println(bfs(N));
     }
 
-    private static int BFS(int N) {
+    private static int bfs(int N) {
         PriorityQueue<Node> pq = new PriorityQueue<>();
         pq.add(new Node(N, 0));
 
