@@ -31,34 +31,38 @@ public class Main {
 		System.out.println(blue);
 	}
 
-	static void divide(int row, int col, int size) {
-		// 현재 영역이 모두 같은 색인지 확인
-		if (check(row, col, size)) {
-			if (arr[row][col] == 0)
-				white++;
-			else
+	public static void divide(int r, int c, int size) {
+		// 기저 조건 : 정사각형이 완성되었을 때
+		if (check(r, c, size)) {
+			if (arr[r][c] == 1) {
 				blue++;
+			} else {
+				white++;
+			}
 			return;
 		}
 
-		int newSize = size / 2;
-		// 4개의 영역으로 분할
-		divide(row, col, newSize); // 좌상단
-		divide(row, col + newSize, newSize); // 우상단
-		divide(row + newSize, col, newSize); // 좌하단
-		divide(row + newSize, col + newSize, newSize); // 우하단
+		int halfSize = size / 2;
+
+		// 4등분으로 나누기
+		divide(r, c, halfSize); // 2사분면
+		divide(r, c + halfSize, halfSize); // 1사분면
+		divide(r + halfSize, c, halfSize); // 3사분면
+		divide(r + halfSize, c + halfSize, halfSize); // 4사분면
 	}
 
-	static boolean check(int row, int col, int size) {
-		int color = arr[row][col];
+	public static boolean check(int r_idx, int c_idx, int size) {
+		int isBlue = arr[r_idx][c_idx]; // 배열의 첫 값을 isBlue로 저장
 
-		for (int i = row; i < row + size; i++) {
-			for (int j = col; j < col + size; j++) {
-				if (arr[i][j] != color) {
+		for (int r = r_idx; r < r_idx + size; r++) {
+			for (int c = c_idx; c < c_idx + size; c++) {
+				if (isBlue != arr[r][c]) { // 다른 색이 등장하면 false return
 					return false;
 				}
 			}
 		}
+
+		// 여기까지 도달하면 같은 색상의 정사각형 완성
 		return true;
 	}
 }
