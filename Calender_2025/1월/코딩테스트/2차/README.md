@@ -23,6 +23,6 @@
 
 ## 답안 제출
 
-- 답안 제출 1 : [문제 1 : 색종이 만들기](https://www.acmicpc.net/problem/1389)
+- 답안 제출 1 : [문제 1 : 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)
 - 답안 제출 2 : [문제 2 : 스도쿠](https://www.acmicpc.net/problem/2580)
 - 답안 제출 3 : [문제 3 : 줄 세우기](https://www.acmicpc.net/problem/2631)
