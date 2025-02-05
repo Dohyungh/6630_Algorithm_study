@@ -1,5 +1,7 @@
 package SOFT._6277_사물인식최소면적산출프로그램;
 
+// 실패
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
