@@ -45,6 +45,7 @@ public class Main {
             kArr[i] = Integer.parseInt(st.nextToken());
         }
 
+        // 행은 모든 도시, 열은 준형이와 친구들이 사는 도시
         int[][] dist = new int[1 + N][1 + K];
         for (int i = 1; i <= N; i++) {
             for (int j = 1; j <= K; j++) {
