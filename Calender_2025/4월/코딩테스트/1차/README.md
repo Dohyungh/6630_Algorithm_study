@@ -1,7 +1,7 @@
 # 코딩테스트
 
-일자 : 2025.3.8(토)
-시간 : 10:00 ~ 12:00
+일자 : 2025.4.5(토)
+시간 : 12:00 ~ 14:00
 
 ## 제출 방법
 
@@ -17,12 +17,12 @@
 
 ## 문제
 
-- 문제 1 : [최단경로](./1_PLAN-253_boj-1753_최단경로/README.md)
-- 문제 2 : [파이프옮기기2](./2_PLAN-255_boj-17069_파이프옮기기2/README.md)
-- 문제 3 : [파일합치기](./3_PLAN-263_boj-11066_파일합치기/README.md)
+- 문제 1 : [숨바꼭질4](./1_PLAN-271_boj-13913_숨바꼭질4/README.md)
+- 문제 2 : [퇴사](./2_PLAN-297_boj-14501_퇴사/README.md)
+- 문제 3 : [싸이버개강총회](./3_PLAN-318_boj-19583_싸이버개강총회/README.md)
 
 ## 답안 제출
 
-- 답안 제출 1 : [문제 1 : 최단경로](https://www.acmicpc.net/problem/1753)
-- 답안 제출 2 : [문제 2 : 파이프옮기기2](https://www.acmicpc.net/problem/17069)
-- 답안 제출 3 : [문제 3 : 파일합치기](https://www.acmicpc.net/problem/11066)
+- 답안 제출 1 : [문제 1 : 숨바꼭질4](https://www.acmicpc.net/problem/13913)
+- 답안 제출 2 : [문제 2 : 퇴사](https://www.acmicpc.net/problem/14501)
+- 답안 제출 3 : [문제 3 : 싸이버개강총회](https://www.acmicpc.net/problem/19583)
